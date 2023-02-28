@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798252728190",
+    "firebase_url": "https://door-lock-b6d87-default-rtdb.firebaseio.com",
+    "project_id": "door-lock-b6d87",
+    "storage_bucket": "door-lock-b6d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798252728190:android:67d7b226625619637c7d2f",
+        "android_client_info": {
+          "package_name": "com.example.doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798252728190-ag0bkfdhkh1jdajo8v7pol3ept2oc178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyY3f27P1pcKx6fiUu9Rl8_a3t9dxe3UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798252728190-ag0bkfdhkh1jdajo8v7pol3ept2oc178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
